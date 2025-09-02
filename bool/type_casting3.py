@@ -12,3 +12,4 @@ print(type(4.5)) #float
 #isinstance : 해당 타입이 맞는지 확인
 print(isinstance(4.5, float)) #true
 print(isinstance(4.5, (int, float)))
+
